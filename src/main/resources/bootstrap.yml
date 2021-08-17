@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: service-acquisition
+  cloud:
+    config:
+      uri: http://localhost:8090
