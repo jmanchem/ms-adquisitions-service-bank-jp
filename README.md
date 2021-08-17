@@ -1,0 +1,1 @@
+# ms-adquisitions-service-bank-jp
